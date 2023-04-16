@@ -92,3 +92,4 @@ class PointDataSet(torch.utils.data.Dataset):
 
 dataset = PointDataSet('ModelNet10/')
 print(dataset[0])
+print(dataset.idx_to_class)
