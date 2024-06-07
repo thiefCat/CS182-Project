@@ -13,8 +13,13 @@ The data is automatically downloaded when you run the code.
 The second part of this assignment is semantic segmentation of pointcloud data. The implementation is in Segmentation_sol.ipynb.
 
 ## Results
+
 The confusion matrix of the classification result:
-<img src="imgs\classify.png" width="300" height="300">
+<div style="text-align: left;">
+  <img src="imgs/classify.png" width="300" height="300">
+</div>
 
 The visualization of segmentation result:
-<img src="imgs\segment.png" width="350" height="300">
+<div style="text-align: left;">
+  <img src="imgs/segment.png" width="350" height="300">
+</div>
