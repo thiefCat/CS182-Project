@@ -11,3 +11,7 @@ The data is automatically downloaded when you run the code.
 
 ## PointNet Segmentation
 The second part of this assignment is semantic segmentation of pointcloud data. The implementation is in Segmentation_sol.ipynb.
+
+## Results
+![Confusion matrix of classification result](imgs/classify)
+![Visualization of Segmentation Result](imgs/segment)
