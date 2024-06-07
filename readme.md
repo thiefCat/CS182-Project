@@ -14,7 +14,7 @@ The second part of this assignment is semantic segmentation of pointcloud data. 
 
 ## Results
 The confusion matrix of the classification result:
-<img src="imgs\classify.png" width="750" height="360">
+<img src="imgs\classify.png" width="600" height="600">
 
 The visualization of segmentation result:
-<img src="imgs\segment.png" width="750" height="360">
+<img src="imgs\segment.png" width="700" height="650">
